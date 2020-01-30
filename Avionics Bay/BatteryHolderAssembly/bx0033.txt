@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-08022019-032105";"";
+"REFERENCE";"bx0033";"";
+"TraceParts.PartTitle";"Battery Holders, bx0033";"";
+"TraceParts.InstanceId";"90-08022019-0321052N3XX9WWY2MK673V115V3T3RA";"";
+"DESIGN";"Battery Holders, bx0033";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Bulgin";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"BULGIN:/F_BULGIN/90-08022019-032105";"";
